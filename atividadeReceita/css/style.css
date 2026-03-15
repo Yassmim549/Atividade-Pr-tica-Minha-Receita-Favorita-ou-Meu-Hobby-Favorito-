@@ -106,7 +106,7 @@ a{
     flex-basis: 100%;
     border: 1px solid rgb(252, 175, 239);
 }
-.utensilhos span{
+.utensilhos p{
     flex: 0 0 calc(50% - 10px);
     box-sizing: border-box;
     padding: 20px;
